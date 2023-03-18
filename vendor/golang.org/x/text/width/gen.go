@@ -12,7 +12,7 @@ import (
 	"bytes"
 	"fmt"
 	"io"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"math"
 	"unicode/utf8"
 
