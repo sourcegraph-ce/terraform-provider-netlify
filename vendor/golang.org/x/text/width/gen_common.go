@@ -10,7 +10,7 @@ package main
 
 import (
 	"flag"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strconv"
 	"strings"
 
